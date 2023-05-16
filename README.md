@@ -1,5 +1,6 @@
 # TweetSentimentExtraction
 TweetSentimentExtraction
+
 **Descripción**
 Con todos los tweets que circulan cada segundo, es difícil saber si el sentimiento detrás de un tweets específico afectará a una empresa o a la marca de una persona por ser viral (positivo) o devastará las ganancias porque tiene un tono negativo. Captar el sentimiento en el lenguaje es importante en estos tiempos en los que las decisiones y reacciones se crean y actualizan en segundos. Pero, ¿qué palabras conducen realmente a la descripción del sentimiento? En esta competencia, deberá elegir la parte del tweet (palabra o frase) que refleja el sentimiento.
 
